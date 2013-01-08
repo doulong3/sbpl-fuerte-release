@@ -1,0 +1,17 @@
+<stack>
+  <name>sbpl</name>
+  <version>1.1.4</version>
+  <description brief="SBPL">Search-based Planning Library (SBPL)</description>
+  <author email="maxim@cs.cmu.edu">Max Likhachev</author>
+  <maintainer email="gjones@willowgarage.com">E. Gil Jones</maintainer>
+  <license>BSD</license>
+  <copyright>Max Likhachev</copyright>
+
+  <url>http://www.ros.org/wiki/sbpl</url>
+
+  <build_depends>catkin</build_depends>
+  <build_depends>pkg-config</build_depends>
+  <build_depends>ros_comm</build_depends>
+
+  <depends>ros_comm</depends>
+</stack>
